@@ -1,5 +1,5 @@
 # cursoc
-General
+General\n
 -Variables y expresiones aritmeticas
 -Ciclo for
 -Constantes simbolicas
@@ -10,7 +10,7 @@ General
 -Arreglos de caracteres
 -Variables externas y alcance
 
-Control de flujo
+Control de flujo\n
 -Proposiciones y bloques
 -if-else
 -Switch
@@ -19,14 +19,14 @@ Control de flujo
 -break, continue
 -Goto, etiquetas
 
-Apuntadores y arreglos
+Apuntadores y arreglos\n
 -Apuntadores y direcciones
 -Apuntadores y argumentos de funciones
 -Apuntadores y arreglos
 -Aritmetica de direcciones
 -Apuntadores a caracteres y funciones
 
-Estructuras
+Estructuras\n
 -Conceptos basicos
 -Estructuras y funciones
 -Arreglos de estructuras
